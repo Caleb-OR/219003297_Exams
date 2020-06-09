@@ -1,0 +1,8 @@
+{
+    "connection":{
+        "server"  : "sql6009.site4now.net",
+        "userName": "DB_A2A9C5_db_admin",
+        "password": "pass@word123",
+        "options": { "encrypt": true, "database": "DB_A2A9C5_db" }
+    }
+}
